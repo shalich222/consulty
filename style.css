@@ -1,0 +1,63 @@
+.navbar-nav{
+    margin-left: 750px;
+}
+.head{
+    background-image: url(pic/bg.jpg);
+    width: 100vw;
+    height: 250px;
+}
+.second{
+    text-align: center;
+    padding: 50px;  
+}
+.card-title{
+    font-size: 45px;
+    font-family: sans-serif;
+}
+.button{
+    background-color: rgb(241, 31, 94);
+     border: none;
+     padding:10px;
+     text-align: center;
+     color: white;
+     cursor: pointer;
+     border-radius: 5px;
+}
+.service{
+    margin: 15px;
+    text-align: center;
+    font-size: 25px;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+    text-align: center;
+    gap: 20px;
+    flex-flow: wrap;
+}
+.card-title{
+    font-size: 20px;
+}
+
+.buttons{
+    background-color: transparent;
+    border: 2px solid rgb(241, 31, 94);
+     padding: 7px;
+     color: rgb(241, 31, 94) ;
+     cursor: pointer;
+     border-radius: 5px;
+}
+
+.footer{
+    background-color: burlywood;
+    width: 100vw;
+    height: 200px;
+}
+
+
+.copy{
+    font-size: 14px;
+    text-align: center;
+    margin: 10px;
+}
